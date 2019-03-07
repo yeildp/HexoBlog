@@ -1,4 +1,4 @@
 git add .
 git commit -m 'commit'
-git push origin master
-# hexo d -g
+git push
+hexo d -g
