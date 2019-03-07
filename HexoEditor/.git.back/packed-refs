@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+74232021e6c6d490c08d571a49636eeee51cb075 refs/remotes/origin/master
+9ac379fcc1977c7e373a6b5d3b1352494288fc26 refs/remotes/origin/zhuzhuyule-patch-1
+4de46181965a2cfc0cf5a59b4ea8b9ff25292af1 refs/tags/v1.1.10
+a7f2390301d6912607f008ecc1c5619f87c029bd refs/tags/v1.1.8
+1b0a0d50e1ea9639d3d4240d055a28bc31c766d4 refs/tags/v1.3.22
+d7dff45617062c8dec951fde26539d6c5d536813 refs/tags/v1.3.24
+d8d9731d999986da149c33d93f33c31ab2268748 refs/tags/v1.3.25
+ca0e055f17738b8ea77eebadfc4baf9d7b2d843b refs/tags/v1.3.26
+b57d34b1afd6aab3daeb8651d18e056f2d9318e0 refs/tags/v1.5.28
+b69cfac7cc808a440321706d1b2300badd318db7 refs/tags/v1.5.30
